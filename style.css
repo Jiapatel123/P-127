@@ -1,0 +1,26 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0;
+}
+
+span {
+    color: goldenrod;
+    font-size: 20px;
+}
+
+.btn-success {
+    width: 150px;
+    font-size: 24px;
+    letter-spacing: 5px;
+}
+
+canvas {
+    border: 5px dashed black;
+    border-radius: 25px;
+    margin-top: 120px;
+}
